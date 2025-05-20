@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
 
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN,speed.cloudflare.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,speedcheck.org
 DOMAIN-SUFFIX,speedtest.net
@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
+DOMAIN-SUFFIX,dnsleaktest.org
+DOMAIN-SUFFIX,1-b.net
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,jsonp-ip.com
+DOMAIN-SUFFIX,sspanel.net
 
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,browserscan.net
